@@ -9,7 +9,6 @@ One can change [the quality](https://github.com/devmlGit/Mandelbrot-set/blob/f54
 
 # Sierpiński fractal
 
-Blender script to generate 3D Sierpiński fractal
-Render in EEVEE (n=5)
+Blender script to generate 3D Sierpiński fractal. Rendered in EEVEE (n=5) :
 
 <img src="Blender_Fractal_03.png" width="300">
