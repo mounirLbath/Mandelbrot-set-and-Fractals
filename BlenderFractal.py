@@ -3,7 +3,7 @@ from math import *
 import time
 
 """
-Blender script to generate sierpenski 3d fractal
+Blender script to generate Sierpiński 3d fractal
 """
 
 #######Deselect all objects in the scene and select obj#######
